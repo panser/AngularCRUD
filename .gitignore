@@ -1,0 +1,15 @@
+######################
+# Project Specific
+######################
+/content/css/main.css
+
+######################
+# Intellij
+######################
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
